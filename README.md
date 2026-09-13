@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Angelo Reychie Alejo 👋
+# Hi, I am Angelo Reychie Alejo
 
-### Software Developer
+### Full-Stack Developer
+
+I build and improve full-stack applications, solve technical problems, and turn project requirements into practical features that people can use.
 
 </div>
 
